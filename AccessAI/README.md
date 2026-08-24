@@ -20,7 +20,7 @@ The application is built using **Python and Streamlit**, with **Google Gemini AI
 ---
 ## 🚀 Live Demo
 
-👉 **[Open ACCESSAI Live](YOUR_RENDER_LIVE_URL)**
+👉 **[Open ACCESSAI Live](https://capstone-mirai.onrender.com)**
 
 ## 🎯 Problem Statement
 
@@ -1003,7 +1003,7 @@ streamlit run app.py
 
 ### Live Demo
 
-👉 YOUR_RENDER_LIVE_URL
+👉 https://capstone-mirai.onrender.com
 
 ---
 
